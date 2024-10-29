@@ -1,0 +1,18 @@
+images/1010298.jpg
+image 4420,3010
+images/1034922.jpg
+image 3664,2249
+images/pngegg.png
+image 834,887
+images/wp9518516.png
+image 1920,1136
+images/กล้าม.png
+image 446,637
+images/พ่อ.png
+image 921,1219
+images/หนุ่ม.png
+image 348,482
+images/แม่ลิง.png
+image 300,300
+images/แม่ลิงง.png
+image 1953,3522
